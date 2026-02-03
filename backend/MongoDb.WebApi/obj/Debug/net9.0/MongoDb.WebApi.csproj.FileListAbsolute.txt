@@ -1,0 +1,7 @@
+C:\Schule\POS\DockerÜbenHausuebung\backend\MongoDb.WebApi\obj\Debug\net9.0\MongoDb.WebApi.csproj.AssemblyReference.cache
+C:\Schule\POS\DockerÜbenHausuebung\backend\MongoDb.WebApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Schule\POS\DockerÜbenHausuebung\backend\MongoDb.WebApi\obj\Debug\net9.0\MongoDb.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Schule\POS\DockerÜbenHausuebung\backend\MongoDb.WebApi\obj\Debug\net9.0\MongoDb.WebApi.AssemblyInfoInputs.cache
+C:\Schule\POS\DockerÜbenHausuebung\backend\MongoDb.WebApi\obj\Debug\net9.0\MongoDb.WebApi.AssemblyInfo.cs
+C:\Schule\POS\DockerÜbenHausuebung\backend\MongoDb.WebApi\obj\Debug\net9.0\MongoDb.WebApi.csproj.CoreCompileInputs.cache
+C:\Schule\POS\DockerÜbenHausuebung\backend\MongoDb.WebApi\obj\Debug\net9.0\MongoDb.WebApi.MvcApplicationPartsAssemblyInfo.cache

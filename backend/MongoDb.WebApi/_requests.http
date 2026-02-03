@@ -1,0 +1,19 @@
+@MongoDb_WebApi_HostAddress = http://localhost:32467/api
+
+GET {{MongoDb_WebApi_HostAddress}}/Users/
+Accept: application/json
+
+###
+POST {{MongoDb_WebApi_HostAddress}}/Users/
+Content-Type: application/json
+
+{
+    "Id": "3",
+    "Name": "Simon",
+    "Username": "plans",
+    "Email": "plans@test.org",
+    "PhoneNumber": "+15555444",
+    "NewField": "Test"
+}
+
+###
